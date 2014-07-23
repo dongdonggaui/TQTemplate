@@ -59,7 +59,7 @@
 				<string>Categories</string>
 			</array>
 			<key>Path</key>
-			<string>NSString+Encrypt.m</string>
+			<string>NSString+Encrypt.h</string>
 		</dict>
 		<key>NSString+Encrypt.m</key>
 		<dict>
